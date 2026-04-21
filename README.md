@@ -35,18 +35,46 @@ I aim to craft solutions that blend sound engineering with modern AI capabilitie
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hiteshhacks&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-# 🌱 Let’s Connect
-💡 Open to learning, collaboration, and meaningful discussions.  
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=hiteshhacks&icon=6&color=0)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=hiteshhacks&theme=neon&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
+---
+
+# 🏅 Activity Highlights:
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/commits.svg" alt="Commits" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/prs.svg" alt="Pull Requests" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/stars.svg" alt="Stars" /></td>
+      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/merged.svg" alt="Merged PRs" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+# 🗺️ Contribution Map:
+
+<div align="center">
+
+![Contribution Map](https://commit-craft.wjz-p.workers.dev/api/map/hiteshhacks.svg)
+
+</div>
+
+---
+
+# 🌱 Let's Connect
+
+💡 Open to learning, collaboration, and meaningful discussions.
