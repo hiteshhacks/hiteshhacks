@@ -53,12 +53,12 @@ I aim to craft solutions that blend sound engineering with modern AI capabilitie
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/commits.svg" alt="Commits" /></td>
-      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/prs.svg" alt="Pull Requests" /></td>
+      <td><img width="100" src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/commits.svg" alt="Commits" /></td>
+      <td><img  width="100" src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/prs.svg" alt="Pull Requests" /></td>
     </tr>
     <tr>
-      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/stars.svg" alt="Stars" /></td>
-      <td><img src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/merged.svg" alt="Merged PRs" /></td>
+      <td><img  width="100" src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/stars.svg" alt="Stars" /></td>
+      <td><img  width="100" src="https://commit-craft.wjz-p.workers.dev/api/banner/hiteshhacks/merged.svg" alt="Merged PRs" /></td>
     </tr>
   </table>
 </div>
